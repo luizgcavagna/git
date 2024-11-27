@@ -36,3 +36,5 @@ git branch -M main
 git remote add origen git@github.com:luizgcavagna/git.git
 
 git remot --v
+
+git push -u origen main
