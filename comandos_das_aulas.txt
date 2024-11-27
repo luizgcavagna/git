@@ -34,3 +34,5 @@ git reset --soft HEAD~1
 git branch -M main
 
 git remote add origen git@github.com:luizgcavagna/git.git
+
+git remot --v
