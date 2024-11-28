@@ -40,3 +40,7 @@ git remot --v
 git push -u origen main
 
 git rm -r --cached .
+
+git clone 
+
+git pull
